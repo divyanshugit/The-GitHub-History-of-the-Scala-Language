@@ -1,5 +1,5 @@
 # The-GitHub-History-of-the-Scala-Language
-Finding the true Scala experts by exploring its development history in Git and GitHub.
+Finding the true Scala experts by exploring its development history in Git and GitHub(from 2012- 2017) .
 
 ## Top three contributors:
 ![top3](img/df_fig01.png)
